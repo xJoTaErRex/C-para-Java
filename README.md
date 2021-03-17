@@ -1,2 +1,2 @@
-# C-para-Java
-Conversão de códigos de C# para Java, matéria de Linguagem de Programação 2
+# C-fOR-Java
+Conversion of C # codes to Java, Programming Language 2 subject
